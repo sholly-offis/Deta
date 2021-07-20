@@ -1,5 +1,5 @@
 # Deta
-##  Dynamic Exchange Topology Adapation
+##  Dynamic Exchange Topology Adaptation
 
 This repository contains additional documents for the following research paper:
 
